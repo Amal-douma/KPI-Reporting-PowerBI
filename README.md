@@ -1,5 +1,5 @@
             
-# 📊 Al Naseem Dairy – Dashboard KPI Mensuel avec Power BI
+# 📊  – Dashboard KPI Mensuel avec Power BI –
 
 ## 🧠 Objectif du projet
 
@@ -89,6 +89,16 @@ Description : Ce visuel présente l’évolution des ventes et le montant total 
 - 🔁 Rafraîchissement automatique des données
 - 📊 Meilleure visibilité sur les performances par produit et par région
 - ✅ Prise de décision plus rapide et plus fiable
+
+## Installation
+
+Clonez le dépôt :
+
+git clone https://github.com/Amal-douma/KPI-Reporting-PowerBI.git
+Importez les fichiers dans Power BI pour commencer à travailler avec les données.
+
+## Contribuer
+Si vous souhaitez contribuer à ce projet, n'hésitez pas à forker le dépôt et proposer des modifications par pull request. Assurez-vous de respecter les bonnes pratiques de codage et d'ajouter des commentaires dans le code pour faciliter la compréhension.
 
 ## 👩‍💻 Réalisé par
 
