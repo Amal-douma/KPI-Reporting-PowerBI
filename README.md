@@ -39,6 +39,42 @@ Moderniser le processus de reporting de **Al Naseem Dairy** via un tableau de bo
      - Évolution du stock 📦
 
 ---
+##📈 Visuels inclus et explications
+
+1. **Vente 10 Top Produit** 
+
+Description : Ce graphique en barres horizontales présente les 10 produits les plus vendus, avec leurs quantités et valeurs totales.
+![Image](https://github.com/user-attachments/assets/1fdd51d2-92f4-4438-924a-4b8561428b24)
+
+2. **Objectif Vendeur par Mois** 
+
+Description : Ce graphique à barres compare les ventes réelles (en vert), les objectifs (en jaune) et les écarts (en rouge) pour chaque mois, par chef de zone.
+![Image](https://github.com/user-attachments/assets/20475f76-7cda-45bd-901f-c28638675c9e)
+
+3. **Meilleur Vendeur par Chef de Zone** 
+
+Description : Ce graphique en barres horizontales montre les ventes totales par chef de zone, avec une répartition par période (janvier, février, mars).
+![Image](https://github.com/user-attachments/assets/87d8a4fb-5795-40dd-bd22-e09cdfe8f55e)
+
+4. **Chiffre d’Affaires et Statistiques Clés** 
+
+Description : Ce visuel regroupe des KPI Cards affichant le chiffre d’affaires total (874 539 TTC), la quantité totale vendue/remisée (40 765), la moyenne des commandes (775) et le montant total des remises (-65 1009).
+![Image](https://github.com/user-attachments/assets/475d173d-c66a-4595-8dbe-6820e9173e13)
+
+5. **Vente par Région** 
+
+Description : Une carte géographique montre la répartition des ventes par région, accompagnée d’un graphique en barres pour la moyenne des commandes par vendeur et d’un comparatif des ventes totales par mois (janvier, février, mars).
+![Image](https://github.com/user-attachments/assets/3413ba43-05b4-4286-9603-d37a74d3f37b)
+
+6. **Vente par CVR** 
+Description : Ce graphique à barres compare les ventes par CVR (Centre de Vente Régional) sur trois mois (janvier, février, mars).
+
+![Image](https://github.com/user-attachments/assets/7f7a2800-3338-41f3-86e9-548593cf83f7)
+
+7. **Évolution des Ventes** 
+Description : Ce visuel présente l’évolution des ventes et le montant total des remises.
+![Image](https://github.com/user-attachments/assets/8be1bb3a-f233-4b1e-a304-47bd1d7c2c4e)
+
 ## 📈 Exemples de visuels inclus
 
 - 📊 **Graphique en barres** : Ventes par produit
@@ -54,24 +90,17 @@ Moderniser le processus de reporting de **Al Naseem Dairy** via un tableau de bo
 - 📊 Meilleure visibilité sur les performances par produit et par région
 - ✅ Prise de décision plus rapide et plus fiable
 
-
-![Image](https://github.com/user-attachments/assets/7b381f5f-3984-4552-8ea4-6c1374cbd0f7)
-
-![Image](https://github.com/user-attachments/assets/f3c494a1-fdd8-4e30-a323-ed2e387d58f4)
-
-
-
-
-![Image](https://github.com/user-attachments/assets/91ef5b24-f86d-4eb8-ac95-ab00aa4982c4)
 ## 👩‍💻 Réalisé par
 
-**Amal Douma**  
-Stagiaire Data Analyst chez Al Naseem Dairy  
-🗓️ Projet de Fin d’Éte – Été 2025 
-📌 Focus : Power BI, Power Query, automatisation de reporting
+**Amal Douma**
 
+Stagiaire Data Analyst chez Al Naseem Dairy
+
+🗓️ Projet de Fin d’Été – Été 2025
+
+📌 Focus : **Power BI, Power Query, automatisation de reporting**
 ---
-## Contact
+##📞 Contact
 
 - **Douma Amal** - [amaldouma70@gmail.com/ LinkedIn](https://www.linkedin.com/in/amal-douma-09178a20a/)
 - **GitHub** : (https://github.com/Amal-douma)
